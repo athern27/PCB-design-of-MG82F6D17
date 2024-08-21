@@ -1,0 +1,1 @@
+# PCB-design-of-MG82F6D17
